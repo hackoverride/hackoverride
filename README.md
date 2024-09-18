@@ -1,7 +1,9 @@
 # Hi there, I'm Hackoverride 👋
 
-
-::: mermaid
-flowchart LR
-   A-.->B;
-:::
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
