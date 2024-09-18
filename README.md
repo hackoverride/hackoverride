@@ -1,6 +1,6 @@
 # Hi there, I'm Hackoverride 👋
 
-Welcome to my GitHub profile! I’m a passionate developer with a background in **cloud architecture**, **IoT**, and **machine learning**. I love solving complex problems with creative and efficient solutions.
+Welcome to my GitHub profile! I love solving complex problems with easy to understand, creative and efficient solutions.
 
 ```mermaid
   graph TD;
