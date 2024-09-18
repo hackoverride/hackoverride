@@ -2,8 +2,8 @@
 
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+      A[hackOverride]-->B[Cloud Architecture];
+      A-->C[IoT];
+      A-->D[Backend];
+      A-->D[Frontend];
 ```
