@@ -5,5 +5,5 @@
       A[hackOverride]-->B[Cloud Architecture];
       A-->C[IoT];
       A-->D[Backend];
-      A-->D[Frontend];
+      A-->E[Frontend];
 ```
