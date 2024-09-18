@@ -3,6 +3,7 @@
 ```mermaid
   graph TD;
       A[hackOverride]-->B[Cloud Architecture];
+      B-->K[Azure];
       A-->C[IoT];
       C-->F[DataLake];
       A-->D[Backend];
