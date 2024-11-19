@@ -6,14 +6,16 @@ Welcome to my GitHub profile! I love solving complex problems with easy to under
   graph TD;
       A[hackOverride]-->B[Cloud Architecture];
       B-->K[Azure];
-      A-->C[IoT];
+      A-->C[Big Data & IoT];
       C-->F[DataLake];
       A-->D[Backend];
       D-->G[.NET];
       D-->H[Go];
       D-->I[Node];
+      D-->K[Python];
       A-->E[Frontend];
       E-->J[React];
+      E-->L[Vue];
 ```
 
 I do .NET C# for Enterprise, Go for Concurrency and Speed, Node for simple applications, websockets and MVPs. Python for anything statistical or Math related.
