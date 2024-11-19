@@ -1,21 +1,29 @@
 # Hi there, I'm Hackoverride 👋
 
-Welcome to my GitHub profile! I love solving complex problems with easy to understand, creative and efficient solutions. I identify as code-agnostic but if I had to pick my go-to languages, here they are:
+** A great solution fades into the background, letting users focus solely on their goals, not the system. **
+
+Welcome to my GitHub profile! 
+I love solving complex problems with easy to understand, creative and efficient solutions. 
+I identify as code-agnostic but if I had to pick my go-to languages, here they are:
 
 ```mermaid
   graph TD;
       A[hackOverride]-->B[Cloud Architecture];
-      B-->K[Azure];
-      A-->C[Big Data & IoT];
-      C-->F[DataLake];
       A-->D[Backend];
+      A-->E[Frontend];
+      A-->C[Big Data & IoT];
+      A-->M[AI-ML]
+      M-->O[Python]
+
+      B-->K[Azure];
+
+      C-->F[DataLake];
+
       D-->G[.NET];
       D-->H[Go];
       D-->I[Node];
-      D-->M[Python];
-      A-->E[Frontend];
+
       E-->J[React];
-      E-->L[Vue];
 ```
 
 I do .NET C# for Enterprise, Go for Concurrency and Speed, Node for simple applications, websockets and MVPs. Python for anything statistical or Math related.
