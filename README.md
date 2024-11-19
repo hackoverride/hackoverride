@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I love solving complex problems with easy to under
       D-->G[.NET];
       D-->H[Go];
       D-->I[Node];
-      D-->K[Python];
+      D-->M[Python];
       A-->E[Frontend];
       E-->J[React];
       E-->L[Vue];
